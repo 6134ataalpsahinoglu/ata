@@ -1,3 +1,3 @@
 import random
-emojis = ["^^", "0_o", ":)", "¯\_(ツ)_/¯", "(￢_￢)"]
-print(random.choice(emojis))
+anilarim=["bir kez valorant'ta ilk raunda bela atmıştım","gta5 te çok değişik bi hareket yapmıştım motor la","çizim tabletim kırıldı"]
+print(random.choice(anilarim))
